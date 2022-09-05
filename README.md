@@ -10,7 +10,7 @@ User yang telah terdaftar, dapat menambahkan berbagai link dan membagikan satu l
 ![bpmn pendaftaran atau login linkset](https://user-images.githubusercontent.com/71377466/188409274-647ff4ca-05ff-46e7-b7f1-5a929525cb98.png)
 
 ## Pemasukan LinkSet
-![pemasukan linkset](https://user-images.githubusercontent.com/71377466/188409663-f336b444-2b95-4cee-80f6-2288b121fe66.png)
+![Pemasukan LinkSet](https://user-images.githubusercontent.com/71377466/188411914-9bca7dc3-c14d-4b61-addb-c4f21c8d004c.jpeg)
 
 
 ## `ERD, CDM, PDM`
