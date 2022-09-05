@@ -6,5 +6,7 @@ Pada bisnis proses ini, ketika user ingin menggunakan Linkset, user harus mendaf
 User yang telah terdaftar, dapat menambahkan berbagai link dan membagikan satu link yang telah diciptakan ke berbagai media social untuk dapat diakses oleh semua pengguna media social. Media social ini sendiri memiliki nama pengguna.
 
 ## `BPMN`
+## `Pendaftaran dan Login`
+
 
 
