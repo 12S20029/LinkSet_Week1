@@ -6,5 +6,5 @@ Pada bisnis proses ini, ketika user ingin menggunakan Linkset, user harus mendaf
 User yang telah terdaftar, dapat menambahkan berbagai link dan membagikan satu link yang telah diciptakan ke berbagai media social untuk dapat diakses oleh semua pengguna media social. Media social ini sendiri memiliki nama pengguna.
 
 ## `BPMN`
-![image.jpeg]( {![image](https://user-images.githubusercontent.com/71377466/188406743-d54c36c9-8e91-4e2e-b56d-72b51f073da5.png)
-} )
+
+
